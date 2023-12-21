@@ -1,0 +1,13 @@
+c:\users\jorge\source\repos\ProyectoFinalTopicos\Vista\bin\Debug\Vista.exe.config
+c:\users\jorge\source\repos\ProyectoFinalTopicos\Vista\bin\Debug\Vista.exe
+c:\users\jorge\source\repos\ProyectoFinalTopicos\Vista\bin\Debug\Vista.pdb
+c:\users\jorge\source\repos\ProyectoFinalTopicos\Vista\obj\Debug\Vista.Properties.Resources.resources
+c:\users\jorge\source\repos\ProyectoFinalTopicos\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+c:\users\jorge\source\repos\ProyectoFinalTopicos\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+c:\users\jorge\source\repos\ProyectoFinalTopicos\Vista\obj\Debug\Vista.exe
+c:\users\jorge\source\repos\ProyectoFinalTopicos\Vista\obj\Debug\Vista.pdb
+c:\users\jorge\source\repos\ProyectoFinalTopicos\Vista\obj\Debug\Vista.Interfaz.resources
+c:\users\jorge\source\repos\ProyectoFinalTopicos\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\ProyectoFinalTopicos\Vista\bin\Debug\CalculosVentas.dll
+C:\Users\Jorge\source\repos\ProyectoFinalTopicos\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Jorge\source\repos\ProyectoFinalTopicos\Vista\obj\Debug\Vista.Pago.resources

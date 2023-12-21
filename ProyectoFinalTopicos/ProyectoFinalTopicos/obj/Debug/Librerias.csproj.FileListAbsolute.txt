@@ -1,0 +1,9 @@
+c:\users\jorge\source\repos\ProyectoFinalTopicos\ProyectoFinalTopicos\bin\Debug\ProyectoFinalTopicos.exe.config
+c:\users\jorge\source\repos\ProyectoFinalTopicos\ProyectoFinalTopicos\bin\Debug\ProyectoFinalTopicos.exe
+c:\users\jorge\source\repos\ProyectoFinalTopicos\ProyectoFinalTopicos\bin\Debug\ProyectoFinalTopicos.pdb
+c:\users\jorge\source\repos\ProyectoFinalTopicos\ProyectoFinalTopicos\obj\Debug\Librerias.csprojAssemblyReference.cache
+c:\users\jorge\source\repos\ProyectoFinalTopicos\ProyectoFinalTopicos\obj\Debug\ProyectoFinalTopicos.Properties.Resources.resources
+c:\users\jorge\source\repos\ProyectoFinalTopicos\ProyectoFinalTopicos\obj\Debug\Librerias.csproj.GenerateResource.cache
+c:\users\jorge\source\repos\ProyectoFinalTopicos\ProyectoFinalTopicos\obj\Debug\Librerias.csproj.CoreCompileInputs.cache
+c:\users\jorge\source\repos\ProyectoFinalTopicos\ProyectoFinalTopicos\obj\Debug\ProyectoFinalTopicos.exe
+c:\users\jorge\source\repos\ProyectoFinalTopicos\ProyectoFinalTopicos\obj\Debug\ProyectoFinalTopicos.pdb
